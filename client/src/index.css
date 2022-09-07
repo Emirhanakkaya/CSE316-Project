@@ -1,0 +1,537 @@
+/* Add CSS */
+
+.middleDiv{
+    width: 75%; 
+    
+    text-align: left;
+}
+
+/* div{
+    text-align: left;
+    width: 25%;
+} */
+
+a:hover{
+    background-color: darkgray;
+    color: gray;
+    text-align: center;
+    display: inline-block;
+    
+}
+
+#idForButtonQuestion{
+    /* background-color: lightblue; */
+    
+}
+
+#askedBy{
+    font-size: 15px;
+}
+
+#answerPage{
+    width: 400%; 
+    border-spacing: 30px; 
+    /* border: 3px solid black;  */
+    color: red;
+}
+
+
+#makeItASmallerFont{
+    width: 25%;
+    text-align: left;
+    font-size: 18px;
+    /* color: blue; */
+}
+
+.twoQuestionsLeft{
+    width: 30%;
+
+}
+.twoQuestions{
+    font-size: 20px;
+    padding-left: 10%;
+    text-align: left;
+    width: 20%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-weight: bold;
+}
+
+.postButton{
+    background-color: #165A92; 
+    border: none;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 20%;
+    height: 40px;
+    margin-top: 10px;
+}
+
+
+.buttonForAnswerTwo{
+    background-color: #165A92; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 2%;
+    margin-left: 30%;
+    /* margin-right: 100%; */
+    width: 30%;
+}
+
+.buttonForAnswer {
+   
+        background-color: #165A92; 
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+}
+
+.newDiv{
+    width: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 30px;
+    color: black;
+}
+
+.tableReact{
+    width: 100%;
+}
+
+#forAsetectics{
+    text-align: left;
+    font-size: 15px;
+    width: 70%;
+}
+
+th.forAsetecticsLeftt{
+    
+    text-align: left;
+    /* padding-right: 0; */
+    font-size: 25px;
+    width: 80%;
+    
+}
+
+#forAsetecticsLeft{
+    text-align: left;
+    /* padding-right: 0; */
+    font-size: 25px;
+    width: 70%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-weight: bold;
+    
+    /* color: pink; */
+    /* color: blue; */
+}
+
+
+#aTagName{
+    /* padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px; */
+}
+
+.middleQuestionTwo{
+    width: 20%;
+    text-align: center;
+}
+
+#forAnswerRow{
+    width: 400%;
+}
+
+.answerQButton{
+    width: 30%;
+    margin-top: 5%;
+    margin-left: 37%;
+}
+
+/* .forTagsNotMiddleTwoRight{
+    width: 30%;
+    margin-right: 0%;
+} */
+.forTagsNotMiddleTwoCOl{
+    width: 10%;
+
+}
+
+.forTagsNotMiddleTwo{
+    width: 75%;
+    text-align: center;
+}
+
+
+.forTagsNotMiddle{
+    width: 35%;
+    text-align: center;
+}
+.middleQuestion{
+    width: 55%;
+    text-align: center;
+}
+
+.middleQuestion09{
+    width: 100%;
+}
+
+#answerPage{
+    width: 400%;
+}
+
+#tagTableYes{
+    width: 400%;
+   
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+#answerBold{
+    font-weight: bold;
+    font-size: 140%;
+}
+#newFont{
+    font-size: 30px;
+}
+
+.divForTable{
+    width: 100%;
+    /* text-align: center; */
+}
+
+.mainTable {
+    border: 3px solid black;
+    width: 100%;
+    text-align: center;
+    height: 15%;
+    /* padding: 30px; */
+   
+    background-color: lightgray;
+}
+
+#questionID{
+    display: inline-block;
+    /* padding: 15%; */
+    padding-top: 13%;
+    padding-bottom: 13%;
+    padding-left: 37%;
+    padding-right: 29%;
+    color: black;
+    text-decoration: none;
+}
+
+#tagIdStack{
+    display: inline-block;
+    /* padding: 10%; */
+    
+    color: black;
+    text-decoration: none;
+}
+#tagId{
+    display: inline-block;
+    /* padding: 10%; */
+    padding-top: 26%;
+    padding-bottom: 26%;
+    padding-left: 37%;
+    padding-right: 29%;
+    color: black;
+    text-decoration: none;
+}
+
+.notMiddleQuestion { 
+    width: 25%;
+    text-align: center;
+    /* font-size: 10px; */
+}
+
+.outerHere{
+    width:100%;
+    text-align: center;
+}
+
+.notMiddleQuestionFinal { 
+    display: inline-block;
+}
+
+.notMiddleQuestionRight{
+    width: 25%;
+    text-align: right;
+}
+
+/* tr{
+    
+} */
+
+#tdIdTwo{
+
+    height: 100%;
+    background-size: 100%;
+}
+
+
+#forButtonReactUser{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 100%;
+    width: 40%;
+    font-size: 100%;
+    font-weight: bold;
+    margin-left: 20%;
+}
+
+#forButtonReact{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 100%;
+    width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+#forButtonReactHere0{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 50%;
+    width: 10%;
+    font-size: 50%;
+    font-weight: bold;
+}
+
+#forButtonReactHere10{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 100%;
+    width: 20%;
+    font-size: 50%;
+    font-weight: bold;
+}
+
+#forButtonReact03{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 100%;
+    width: 100%;
+    font-size: 100%;
+    font-weight: bold;
+    /* need padding here */
+}
+
+#forButtonReactHere04{
+    background-color: #165A92; 
+    color: white; 
+    background-size: 600%;
+    width: 50%;
+    font-size: 50%;
+    font-weight: bold;
+}
+
+
+#reactQuestionDisplay{
+    color: blue;
+}
+
+#reactQuestionDisplay02{
+    font-weight: bold;
+}
+
+#questionRow02{
+    width: 33%;
+}
+
+#makrItRight{
+    text-align: right;
+    font-size: 20px;
+    padding-right: 3%;
+}
+
+#forHr{
+    font-weight: bold; 
+    width: 400%;
+    color: black;
+    border-style: dotted;
+}
+
+#logOut{
+    width: 40%;
+}
+
+#questionsForUser{
+    width: 10%;
+    margin-top: 5%;
+    margin-left: 47%;
+    /* border-spacing: 20px;  */
+    /* border: 3px solid black;  */
+}
+
+#questions { 
+    width: 100%; 
+    border-spacing: 30px; 
+    /* border: 3px solid black;  */
+    color: red;
+    /* border: 3px solid black; */
+}
+
+#formHere{
+    color: black;
+    padding-left: 10%;
+}
+
+td { 
+    font-size: 30px;
+    width: 10px;
+    color: black;
+} 
+th{
+    font-size: 30px;
+    width: 10px;
+    color: black;
+}
+
+#forNewAnswerTable{
+    /* border-spacing: 30px; */
+    min-width: 100px;
+    /* width: 30%; */
+    color: black;
+}
+
+ /* a:hover{
+    width: 100%;
+    height: 100%;
+    background: none;
+    border: none;
+    color: black;
+}  */
+
+
+
+#qAnda{
+    /* width: 100%; */
+    
+    /* text-align: center; */
+    /* margin: 10%; */
+   
+    width:400%; 
+    height: 40%;
+    text-align: center;
+    
+}
+
+#tags {
+    color: white; 
+    background-color: darkslategray; 
+    background-size: 1%;
+    border: 4px;
+    
+}
+
+.spanTag{
+    background-color: darkslategray;
+    color: white;
+    margin-left: 0%;
+    margin: 2%;
+    text-align: center;
+    border-radius: 15px;
+    padding-left: 5px;
+    
+}
+
+#forTags{
+    padding-left: 2%;
+    
+}
+
+#forTagsAgain{
+    font-size: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#forCharacters{
+    display: none;
+    color: red;
+    text-align: center;
+}
+
+a.linky{
+    background:none;
+    border:none;
+    /* color: blue; */
+    font-size: 110%;
+    width: 100%;
+    height: 100%;
+    max-height: 100px;
+}
+
+.errorMessage{
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.justA{
+    color: #0281E8;
+    text-decoration: underline;
+}
+
+
+#newTableYes{
+    width: 400%;
+}
+
+#displayINline{
+    display: inline;
+}
+
+#lightBlueColor{
+    display: inline;
+    color: turquoise;
+}
+
+#greenColorHere{
+    display: inline;
+    color: green;
+}
+
+#colorHERE{
+    display: inline;
+    color: blue;
+}
+
+#displayTags{
+    border-style:solid;
+    border-spacing: 30%;
+    display: inline-block;
+    width: 400%;
+    /* margin-right: 0; */
+    /* display: inline-block; */
+    
+    margin-left: 150px; 
+    margin-right: 50px;
+    margin-top: 80px;
+    /* margin-left: 20px;
+    margin-right: 20px; */
+    
+    font-size: 40px;
+    border-color: black;
+    white-space: nowrap;
+    width: fit-content;
+    
+}
+
+#rowHere{
+    width: 400%;
+}
